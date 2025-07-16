@@ -25,9 +25,7 @@ CS2315_Cityu/
 ├── Assignment1/           # [Brief description, e.g., Command-line calculator]
 ├── Assignment2/           # [Brief description, e.g., Student record system]
 ├── Assignment3/           # [Brief description, e.g., Simple game]
-├── docs/                  # Screenshots or additional documentation
 └── README.md              # This file
-```
 
 ## 🚀 Getting Started
 To explore or run the assignments locally, follow these steps:
@@ -45,7 +43,7 @@ To explore or run the assignments locally, follow these steps:
    - For [language, e.g., Java]: Ensure JDK [version] is installed.
 4. **Run the Code**:
    - Follow the specific instructions in each assignment’s `readme.md`.
-   - Example: `python main.py` or `javac Main.java && java Main`
+   - Example: `python main.py` 
 
 ## 📋 Assignment Highlights
 Below is a summary of the assignments included in this repository. Each assignment demonstrates key programming concepts learned in CS2315.
@@ -70,8 +68,6 @@ System: ated**: [e.g., Variables, loops, conditionals, user input handling]
   - **Folder**: `Assignment3/`
   - **Screenshot**: [Link to image]
 
-## 🖼️ Screenshots
-[Include screenshots or GIFs of your assignments in action, e.g., a terminal output, GUI, or game interface. Store images in the `docs/` folder or host them externally.]
 
 ## 🔧 Challenges and Learnings
 - **Challenges Faced**:
@@ -82,10 +78,6 @@ System: ated**: [e.g., Variables, loops, conditionals, user input handling]
   - Learned to write clean, modular code with proper documentation.
   - Improved problem-solving skills through iterative debugging and testing.
 
-## 🌟 Future Improvements
-- [e.g., Add a graphical user interface (GUI) to Assignment 1 using JavaFX or Tkinter.]
-- [e.g., Optimize performance of Assignment 2 by implementing a database instead of file I/O.]
-- [e.g., Enhance Assignment 3 with additional game features like save/load functionality.]
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
