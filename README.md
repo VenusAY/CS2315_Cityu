@@ -27,23 +27,6 @@ CS2315_Cityu/
 ├── Assignment3/           # [Brief description, e.g., Simple game]
 └── README.md              # This file
 
-## 🚀 Getting Started
-To explore or run the assignments locally, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/VenusAY/CS2315_Cityu.git
-   ```
-2. **Navigate to an Assignment**:
-   ```bash
-   cd CS2315_Cityu/Assignment1
-   ```
-3. **Install Dependencies** (if applicable):
-   - For [language, e.g., Python]: `pip install -r requirements.txt`
-   - For [language, e.g., Java]: Ensure JDK [version] is installed.
-4. **Run the Code**:
-   - Follow the specific instructions in each assignment’s `readme.md`.
-   - Example: `python main.py` 
 
 ## 📋 Assignment Highlights
 Below is a summary of the assignments included in this repository. Each assignment demonstrates key programming concepts learned in CS2315.
@@ -60,13 +43,11 @@ System: ated**: [e.g., Variables, loops, conditionals, user input handling]
   - **Description**: [e.g., A program to manage student records using classes and file I/O.]
   - **Skills Demonstrated**: [e.g., Object-oriented programming, encapsulation, file handling]
   - **Folder**: `Assignment2/`
-  - **Screenshot**: [Link to image]
 
 - **Assignment 3: [Title, e.g., Simple Text-Based Game]**
   - **Description**: [e.g., A text-based adventure game using object-oriented principles.]
   - **Skills Demonstrated**: [e.g., Classes, inheritance, user interaction]
   - **Folder**: `Assignment3/`
-  - **Screenshot**: [Link to image]
 
 
 ## 🔧 Challenges and Learnings
