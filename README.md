@@ -14,9 +14,8 @@ Welcome to my repository for **CS2315 - Computer Programming**, a course offered
   - Final Examination: 60% (2-hour exam, minimum 30% required to pass)
 
 ## 🛠️ Tech Stack
-- **Programming Language**: [Specify, e.g., Java, Python, C++ – update based on your course]
-- **Tools**: Git, [IDE used, e.g., IntelliJ IDEA, PyCharm, VS Code]
-- **Other**: [Add if applicable, e.g., libraries like NumPy for Python or JavaFX for Java]
+- **Programming Language**: C++ 
+- **Tools**: VS Code
 
 ## 📂 Repository Structure
 This repository contains my assignments from CS2315, each organized in its own folder with its own README for clarity.
