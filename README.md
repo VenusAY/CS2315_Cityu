@@ -45,16 +45,6 @@ System: ated**: [e.g., Variables, loops, conditionals, user input handling]
   - **Folder**: `Assignment3/`
 
 
-## 🔧 Challenges and Learnings
-- **Challenges Faced**:
-  - [e.g., Debugging issues with file I/O in Assignment 2.]
-  - [e.g., Understanding inheritance for the game logic in Assignment 3.]
-- **Learnings**:
-  - Gained proficiency in [language, e.g., Java] and object-oriented programming.
-  - Learned to write clean, modular code with proper documentation.
-  - Improved problem-solving skills through iterative debugging and testing.
-
-
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
