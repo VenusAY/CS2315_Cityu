@@ -21,11 +21,6 @@ Welcome to my repository for **CS2315 - Computer Programming**, a course offered
 This repository contains my assignments from CS2315, each organized in its own folder with its own README for clarity.
 
 ```
-CS2315_Cityu/
-├── Assignment1/           # [Brief description, e.g., Command-line calculator]
-├── Assignment2/           # [Brief description, e.g., Student record system]
-├── Assignment3/           # [Brief description, e.g., Simple game]
-└── README.md              # This file
 
 
 ## 📋 Assignment Highlights
