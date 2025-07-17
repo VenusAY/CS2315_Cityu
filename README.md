@@ -20,31 +20,6 @@ Welcome to my repository for **CS2315 - Computer Programming**, a course offered
 ## 📂 Repository Structure
 This repository contains my assignments from CS2315, each organized in its own folder with its own README for clarity.
 
-```
-
-
-## 📋 Assignment Highlights
-Below is a summary of the assignments included in this repository. Each assignment demonstrates key programming concepts learned in CS2315.
-
-- **Assignment 1: [Title, e.g., Command-line Calculator]**
-  - **Description**: [Briefly describe, e.g., A CLI tool to perform basic arithmetic operations using functions and user input.]
-  - **Skills Demonstr discursos
-
-System: ated**: [e.g., Variables, loops, conditionals, user input handling]
-  - **Folder**: `Assignment1/`
-  - **Screenshot**: [Link to image in `docs/` or external hosting like Imgur]
-
-- **Assignment 2: [Title, e.g., Student Record System]**
-  - **Description**: [e.g., A program to manage student records using classes and file I/O.]
-  - **Skills Demonstrated**: [e.g., Object-oriented programming, encapsulation, file handling]
-  - **Folder**: `Assignment2/`
-
-- **Assignment 3: [Title, e.g., Simple Text-Based Game]**
-  - **Description**: [e.g., A text-based adventure game using object-oriented principles.]
-  - **Skills Demonstrated**: [e.g., Classes, inheritance, user interaction]
-  - **Folder**: `Assignment3/`
-
-
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
